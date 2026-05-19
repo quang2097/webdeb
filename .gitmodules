@@ -1,0 +1,9 @@
+[submodule "webdeb_public"]
+	path = webdeb_public
+	url = https://github.com/quang2097/webdeb_public.git
+[submodule "webdeb_src"]
+	path = webdeb_src
+	url = https://github.com/quang2097/webdeb_src.git
+[submodule "webdeb_server"]
+	path = webdeb_server
+	url = https://github.com/quang2097/webdeb_server.git
